@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.xplore24.ekottrovendor"
+    name: "Ekottro Vendor"
+  ios:
+    id: "com.xplore24.ekottrovendor"
+    name: "Ekottro Vendor"

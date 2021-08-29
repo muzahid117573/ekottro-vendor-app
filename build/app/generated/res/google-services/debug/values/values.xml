@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">787411119616-b6tqvs8okamle6mtmskghea8hellrqa2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">787411119616</string>
+    <string name="google_api_key" translatable="false">AIzaSyCgUYQ3IwBpkosuyD-TqL9L2kAgw8HKnVA</string>
+    <string name="google_app_id" translatable="false">1:787411119616:android:3410dcc6d4a250665e32e5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCgUYQ3IwBpkosuyD-TqL9L2kAgw8HKnVA</string>
+    <string name="google_storage_bucket" translatable="false">ekottro.appspot.com</string>
+    <string name="project_id" translatable="false">ekottro</string>
+</resources>

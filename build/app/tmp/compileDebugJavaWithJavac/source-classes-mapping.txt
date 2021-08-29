@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/xplore24/ekottrovendor/BuildConfig.java
+ com.xplore24.ekottrovendor.BuildConfig

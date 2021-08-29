@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787411119616",
+    "project_id": "ekottro",
+    "storage_bucket": "ekottro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787411119616:android:3410dcc6d4a250665e32e5",
+        "android_client_info": {
+          "package_name": "com.xplore24.ekottrovendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787411119616-b6tqvs8okamle6mtmskghea8hellrqa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgUYQ3IwBpkosuyD-TqL9L2kAgw8HKnVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787411119616-b6tqvs8okamle6mtmskghea8hellrqa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

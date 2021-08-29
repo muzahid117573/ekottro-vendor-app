@@ -1,0 +1,54 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="id.kakzaki.blue_thermal_printer" >
+4
+5    <uses-sdk android:minSdkVersion="18" />
+5-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+7-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml:3:5-80
+7-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml:3:22-78
+8    <!-- Request legacy Bluetooth permissions on older devices. -->
+9    <uses-permission
+9-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml:5:5-6:38
+10        android:name="android.permission.BLUETOOTH"
+10-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml:5:22-65
+11        android:maxSdkVersion="30" />
+11-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml:6:9-35
+12    <uses-permission
+12-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml:7:5-8:38
+13        android:name="android.permission.BLUETOOTH_ADMIN"
+13-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml:7:22-71
+14        android:maxSdkVersion="30" />
+14-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml:8:9-35
+15
+16    <!--
+17         Needed only if your app looks for Bluetooth devices.
+18         You must add an attribute to this permission, or declare the
+19         ACCESS_FINE_LOCATION permission, depending on the results when you
+20         check location usage in your app.
+21    -->
+22    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+22-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml:14:5-78
+22-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml:14:22-76
+23    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+23-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml:15:5-73
+23-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml:15:22-70
+24
+25    <!--
+26         Needed only if your app makes the device discoverable to Bluetooth
+27         devices.
+28    -->
+29    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
+29-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml:19:5-78
+29-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml:19:22-75
+30
+31    <!--
+32         Needed only if your app communicates with already-paired Bluetooth
+33         devices.
+34    -->
+35    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+35-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml:23:5-76
+35-->C:\flutter_windows_2.0.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\blue_thermal_printer-1.1.4\android\src\main\AndroidManifest.xml:23:22-73
+36
+37</manifest>
